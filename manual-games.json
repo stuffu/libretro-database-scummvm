@@ -6,10 +6,7 @@
         "manufacturer": "Sierra",
         "rom": {
             "name": "VOL.0",
-            "size": "70313",
-            "crc": "fd471c99",
-            "md5": "3e09c8580506212cd3494b5df8ea6cbc",
-            "sha1": "5f9cba6dced32737c5a80f7cf2e805541c9fa422"
+            "crc": "00000000",
         }
     },
     "comi": {
@@ -113,6 +110,7 @@
             "sha1": "366ce8bb2c7876a445c870f6b19f8d56cbf91f47"
         }
     },
+            },
     "toltecs": {
         "name": "toltecs",
         "description": "3 Skulls of the Toltecs (DOS/English)",
@@ -120,10 +118,7 @@
         "manufacturer": "Revistronic",
         "rom": {
             "name": "SAMPLE.AD",
-            "size": "3242",
-            "crc": "11cde28d",
-            "md5": "904b04063ff4e04c8fc33576e41c68a9",
-            "sha1": "a99a70134fde20ef0c5dbf170a037f37a32cb425"
+            "crc": "00000000",
         }
     },
     "bargon": {
@@ -146,10 +141,7 @@
         "manufacturer": "Revolution Software",
         "rom": {
             "name": "SWORDRES.RIF",
-            "size": "59788",
-            "crc": "c1b07ca2",
-            "md5": "003f4dc09692592d3a8347bc84ded39f",
-            "sha1": "baddca4dc1d6e7cfba6dde2ab22a99a2e439ebb3"
+            "crc": "00000000",
         }
     },
     "cruise": {
@@ -289,10 +281,6 @@
         "manufacturer": "Mythos Software",
         "rom": {
             "name": "chess.pth",
-            "size": "6593",
-            "crc": "170c1c6d",
-            "md5": "a30e550ecb26f2e89bc85d9d82a739d6",
-            "sha1": "2ad940c0fe8dca2b5fa205823f33bffdb69b601f"
+            "crc": "00000000",
         }
     }
-}
